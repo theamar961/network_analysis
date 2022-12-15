@@ -1,4 +1,4 @@
-# QUANTIFYING BUILDING DAMAGE USING SATELLITE IMAGERY
+# Quantifying Building Damage Using Satellite Imagery
 
 This project's goal is to use satellite imagery to understand building damage before and after disasters using the xBD Dataset.
 
